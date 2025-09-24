@@ -12,7 +12,7 @@ and learning to become a better programmer and systems engineer by the day!
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Assembly]({BadgeURLHere})
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
 
 ## Favourite IDE's
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
