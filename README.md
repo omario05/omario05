@@ -11,7 +11,7 @@ and learning to become a better programmer and systems engineer by the day!
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Assembly](https://img.shields.io/badge/AssemblyScript-%23007ACC.svg?style=for-the-badge&logo=AssemblyScript&logoColor=#007ACC)
 
 ## Favourite IDE's
