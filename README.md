@@ -1,10 +1,10 @@
 ## Hi, I'm Omar! 👋
 
 I am a BEng Computer Systems Engineering Student at Carleton University, currently in my third year, 
-and learning to become a better programmer by the day!
+and learning to become a better programmer and systems engineer by the day!
 
 - Currently learning the Swift programming language to develop apps 👨‍💻
-- Interested in learning more langauges in the future like C++
+- Interested in learning more langauges in the future like C++, .NET, and more!
 
 
 ## What languages do I know?
@@ -17,6 +17,8 @@ and learning to become a better programmer by the day!
 ## Favourite IDE's
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
 ## Frameworks I know!
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
