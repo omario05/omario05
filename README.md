@@ -1,4 +1,4 @@
-
+![Gojo Satoru Waving](gojo-wave.gif)
 ## Hi, I'm Omar! 👋
 
 I am a BEng Computer Systems Engineering Student at Carleton University, currently in my third year, and learning to become a better programmer and systems engineer by the day!
@@ -18,6 +18,9 @@ I am a BEng Computer Systems Engineering Student at Carleton University, current
 ## Frameworks I know!
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=numpy,matplotlib,pytest,junit)
 > NumPy, Matplotlib, Pytest, JUnit
+
+## What am I up to?
+In the design phase of a new app coded in Swift, related to my passion for motorsport and video games. Will also create a website showcasing it coded in JavaScript, HTML, and CSS once learned. Stay tuned!
 
 **I do my projects and programming on** ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)**!**
 
