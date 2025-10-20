@@ -1,5 +1,5 @@
 ![Gojo Satoru Waving](gojo-wave2.gif)
-## Hello there, I'm Omar! 👋
+# Hello there, I'm Omar! 👋
 
 I am a third-year BEng Computer Systems Engineering Student at Carleton University, and learning to become a better programmer and systems engineer by the day!
 
@@ -15,4 +15,4 @@ I am a third-year BEng Computer Systems Engineering Student at Carleton Universi
 > VS Code, Xcode
 
 ## What am I up to? 🤔
-School work, of course, but also in the design phase of a new app coded in Swift, related to my passion for motorsport and video games. Will also create a website showcasing it, coded in JavaScript, HTML, and CSS once learned. Stay tuned for updates!!
+School work and looking for Co-op, of course, but also in the design phase of a new app (omg wow😱) coded in **Swift**, related to my passion for motorsport 🏎️ and video games 🎮. Will also create a website showcasing it, coded in **JavaScript**, **HTML**, and **CSS** once learned. Stay tuned for updates!!
